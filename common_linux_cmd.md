@@ -83,13 +83,18 @@
 * uuencode, uudecode
 * zip, unzip
 * rar
-* 7zGoogle Cheat Sheet PDF
-* aptitude
+* 7z
+
+# package
+* dpkg
+* apt
+* apt-get
 * rpm
 * yum
 * dnf
 * npm
 * snap
+* aptitude
 
 # disk
 * df
