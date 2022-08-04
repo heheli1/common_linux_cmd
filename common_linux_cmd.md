@@ -121,8 +121,10 @@
 * lsusb
 * lshw
 * lsblk
+* lscpu
 * dmidecode
 * findsmb
+* hwinfo
 * acpi
 * acpi_available
 * halt
@@ -186,6 +188,20 @@
 * wget
 * curl
 * netstat
+
+# compilation
+* gcc
+* nm
+* ar
+* objcopy
+* objdump
+* ranlib
+* strip
+* readelf
+* addr2line
+* size
+* dlltool
+* llvm-*
 
 # terminal
 * clear
