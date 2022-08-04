@@ -104,7 +104,7 @@
 * pvcreate
 * mount
 * umount
-* fdiskGoogle Cheat Sheet PDF
+* fdisk
 * findmnt
 
 
